@@ -13,7 +13,7 @@ Right now it saves the old translations in /translations/export/ro_diacritics_yy
 
 WARNING
 
-It was only tested on my local machine. Make backups and be safe. If anything goes wrong, I'll try to help. But ultimately it is your site and your responsability. I'll not accept any responsability if anything goes wrong.
+It was only tested on my local machine. Make backups and be safe. Ultimately, if anything goes wrong, it is your site and your responsability - I'll try to help, but I'll not accept any responsability.
 
 
 HISTORY
