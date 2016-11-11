@@ -16,8 +16,7 @@ Right now it saves the old translations in /translations/export/ro_yymmdd-hhmmss
 
 WARNING
 
-It was only tested on my local machine. Make backups and be safe. Ultimately, if anything goes wrong, it is your site and your responsability - I'll try to help, but I'll not accept any responsability.
-
+IT WAS ONLY TESTED ON MY LOCAL MACHINE. MAKE BACKUPS AND BE SAFE. ULTIMATELY, IF ANYTHING GOES WRONG, IT IS YOUR SITE AND YOUR RESPONSABILITY - I'LL TRY TO HELP, BUT I'LL NOT ACCEPT ANY RESPONSABILITY.
 
 HISTORY
 
