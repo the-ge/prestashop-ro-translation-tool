@@ -42,7 +42,7 @@ $actions = [
     //    'function' => 'restoreTranslations',
     //    'header' => '',
     //],
-    'Comentează traducerile goale' => [
+    'Dezactivează traducerile goale' => [
         'function' => 'commentEmptyTranslations',
         'header' => 'Au fost comentate traducerile goale din:',
     ],
