@@ -22,4 +22,5 @@ It was only tested on my local machine. Make backups and be safe. Ultimately, if
 HISTORY
 
 2014-06-23 First version tested on a 1.6.0.6 install
+
 2016-11-11 Added commenting of empty translations
