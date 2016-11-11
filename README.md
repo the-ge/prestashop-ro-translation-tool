@@ -9,7 +9,7 @@ PHP script to batch process Romanian translation:
 
 USAGE
 
-Copy prestashop_romanian_tranlsation_tool.php in your Prestashop root directory, then run it.
+Copy prestashop_i18n_ro_tool.php in your Prestashop root directory, then run it.
 
 Right now it saves the old translations in /translations/export/ro_yymmdd-hhmmss/. The old translations can be then restored by copying them over the prestashop root directory.
 
