@@ -2,7 +2,9 @@ Prestashop Romanian Translation Tool
 ====================================
 
 PHP script to batch process Romanian translation:
+
 1. convert the the ăâîșțĂÂÎȘȚ diacritics to plain aaistAAIST
+
 2. comment empty translations to fix the lack of empty string check in PrestaShop translation code
 
 USAGE
